@@ -7,7 +7,7 @@
 🔭 I’m currently working on AxiomOS's web
 
 
-⚡ Znaczy ogólnie to zainteresowania, to: React, CSS i ogólnie takie, takie... Ale w miarę to nauka mnie najbardziej kręci i w ogóle mam nadzieję na przyszłość. 
+⚡ Znaczy ogólnie to interesowania, zainteresowania, to: React, CSS i ogólnie takie, takie... Ale w miarę to nauka mnie najbardziej kręci i w ogóle mam nadzieję na przyszłość. 
 
 
 🦙 Fun fact: I like llamas
