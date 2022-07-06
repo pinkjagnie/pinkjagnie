@@ -13,4 +13,4 @@
 🦙 Fun fact: I like llamas
 
 
-📫 How to reach me: @PinkJagnie
+📫 How to reach me: @PinkJagnie on Telegram
