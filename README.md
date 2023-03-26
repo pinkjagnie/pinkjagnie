@@ -4,7 +4,7 @@
 
 🌱 I’m currently improving React
 
-🔭 I’m currently working on AxiomOS's web
+🔭 I’m currently open for collabs
 
 
 ⚡ Znaczy ogólnie to interesowania, zainteresowania, to: React, CSS i ogólnie takie, takie... Ale w miarę to nauka mnie najbardziej kręci i w ogóle mam nadzieję na przyszłość. 
@@ -14,3 +14,5 @@
 
 
 📫 How to reach me: @PinkJagnie on Telegram
+
+💻 My site: pinkjagnie.pl
