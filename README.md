@@ -2,8 +2,6 @@
 
 🦄 Obviously pink is my color
 
-🌱 I’m currently improving React
-
 🔭 I’m currently open for collabs
 
 
@@ -11,8 +9,5 @@
 
 
 🦙 Fun fact: I like llamas
-
-
-📫 How to reach me: @PinkJagnie on Telegram
 
 💻 My site: pinkjagnie.pl
