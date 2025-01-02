@@ -9,5 +9,3 @@
 
 
 🦙 Fun fact: I like llamas
-
-💻 My site: pinkjagnie.pl
